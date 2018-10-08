@@ -1,0 +1,49 @@
+.portfolio{
+	
+	&__img{
+		margin-top:70px;
+		background-image:url('../img/men-computer.png');
+		height:500px;
+		font-family:Lato;
+		text-align:center;
+		color:white;
+	
+	}
+
+	&__h{
+		font-size:20px;
+		display: inline-block;
+		margin-top:100px;
+		padding-left:485px;
+		margin-bottom:-0;
+	}
+	&__paraghraph{
+		width: 410px;
+		margin-left:940px;
+		text-align:left;
+		font-weight:17px;
+	}
+
+	&__header{
+		font-size:15px;
+		margin-left:576px;
+		display:block;
+		margin-top:10px;
+		}
+
+		&__button{
+			   background-color:#707881;
+    border:2px solid black;
+    color:black;
+    padding: 6px 7px;
+    border-radius:3px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:500px;
+    margin-top:20px;
+   
+		}
+
+	}

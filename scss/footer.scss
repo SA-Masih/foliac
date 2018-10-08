@@ -1,0 +1,36 @@
+
+	.footer{
+		background-color:#3c4955;
+		margin-top:40px;
+		
+		&__img{
+			display:inline-block;
+			}
+
+		&__paragraph{
+			color:white;
+			display: inline-block;
+			margin-left:210px;
+			margin-top:80px;
+			vertical-align:top;
+			
+		}
+
+      &__a{
+	   text-decoration: none;
+	   margin:14px;
+	   
+	   
+        }
+
+&__nav{
+
+	display: inline-block;
+	margin-bottom:30px;
+	vertical-align:bottom;
+	margin-left:430px;
+	margin-top:50px;
+			
+}
+}
+

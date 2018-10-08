@@ -1,0 +1,70 @@
+.about__contact {
+  font-family: Big John;
+  color: green;
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 60px;
+  margin-top: 40px; }
+
+.about__text {
+  display: inline-block; }
+
+.about__votre_nonm[type="text"] {
+  background-image: url("../img/icon-user.png");
+  width: 333px;
+  height: 49px;
+  border-radius: 6px;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  text-align: left;
+  padding-left: 70px;
+  background-size: center;
+  margin-left: 420px;
+  outline: none; }
+
+.about__votre_emil[type="text"] {
+  background-image: url("../img/icon-email.png");
+  width: 333px;
+  height: 49px;
+  border-radius: 6px;
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  text-align: left;
+  padding-left: 70px;
+  background-size: center;
+  outline: none; }
+
+.about__votre_emil {
+  margin-left: 30px; }
+
+.about__votre_message[type="text"] {
+  width: 700px;
+  height: 224px;
+  background-image: url("../img/icon-message.png");
+  border-radius: 6px;
+  border: 2px solid black;
+  text-align: left;
+  padding-left: 70px;
+  background-size: center;
+  outline: none;
+  background-repeat: no-repeat;
+  padding-bottom: 140px;
+  margin-left: 420px;
+  margin-top: 40px; }
+
+.about__you {
+  color: whte;
+  background-color: #48bf72;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  display: block;
+  width: 702px;
+  margin-left: 417px;
+  border-radius: 6px;
+  outline: none;
+  color: #fff;
+  border: none;
+  font-family: lato;
+  margin-top: 30px; }

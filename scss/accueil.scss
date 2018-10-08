@@ -1,0 +1,111 @@
+.accueil{
+	&__header{
+		  background-image: url("../img/new.png");
+		  background-repeat: no-repeat,repeat;
+		  background-position:top; 
+		  padding-top:70px;
+		  padding-left:203px;
+		}
+		  &__header a{
+		  	text-decoration:none;
+		  	
+		 }
+
+		  &__logo{
+		  	width:140px;
+		  	height:70px;
+		  	
+		  	
+		  }
+
+		  &__navs, __logo{
+		  	display:inline-block;
+		  	vertical-align:top;
+		  	margin:20px;
+		  	}
+
+		 &__nav{
+		 	color:#fff;
+		 	text-decoration:none;
+		 	margin:40px;
+		 	font-size:13px;
+		 	font-family:lato; 
+		 	
+		 	}
+
+		 	&__navs{
+		 		margin-left:450px;
+		 		
+		 	}
+
+		 	&__nav:nth-child(1){
+		 		padding-right:60px;
+		 		border-right:1px solid white;
+		 		margin:0;
+		 	}
+
+		 	&__nav:nth-child(2){
+		 		padding-right:60px;
+		 		border-right:1px solid white;
+		 		// margin:0;
+		 		
+		 		}
+
+		 			&__nav:nth-child(3){
+		 		padding-right:60px;
+		 		border-right:1px solid white;
+		 		margin:0;
+		 	}
+
+		 	&__title{
+		 		text-align:center;
+		 		padding-top:130px;
+		 		margin-right:280px;
+		 		
+		 		
+		 		
+		 	}
+
+		 	&__h1{
+		 		color:#fff;
+		 		font-size:50px;
+		 		font-family:lato;
+		 		margin:-0;
+		 		
+		
+		 	}
+
+		 	&__p{
+		 		font-family:Slim Joe;
+		 		font-size:29px;
+		 		color:#fff;
+		 		margin-right:-48px;
+		 		margin-top:20px;
+		 		margin-bottom:40px;
+		 		
+		 	}
+
+		 	&__button{
+		 		  background-color:#54606c;
+		 		  color:#4aa26d;
+		 		  border:none;
+		 		  border:2px solid #48bf72;
+		 		  padding:5px;
+		 		  padding-right:7px;
+		 		  padding-left:10px;
+		 		  border-radius:3px;
+		 		  font-family: Lato;
+		 		  margin-left:100px;
+		 		  margin-bottom:230px;
+		 	}
+
+		 	&__contant{
+		 		padding-top:20px;
+		 	}
+
+		 	
+
+
+
+		
+}

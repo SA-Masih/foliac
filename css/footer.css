@@ -1,0 +1,20 @@
+.footer {
+  background-color: #3c4955;
+  margin-top: 40px; }
+  .footer__img {
+    display: inline-block; }
+  .footer__paragraph {
+    color: white;
+    display: inline-block;
+    margin-left: 210px;
+    margin-top: 80px;
+    vertical-align: top; }
+  .footer__a {
+    text-decoration: none;
+    margin: 14px; }
+  .footer__nav {
+    display: inline-block;
+    margin-bottom: 30px;
+    vertical-align: bottom;
+    margin-left: 430px;
+    margin-top: 50px; }

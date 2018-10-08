@@ -1,0 +1,15 @@
+*{
+box-sizing: border-box;
+
+}
+body{
+	margin:0 auto;
+}
+
+@import 'normalize';
+@import 'accueil';
+@import 'article';
+@import 'portfolio';
+@import 'about';
+@import 'footer';
+
